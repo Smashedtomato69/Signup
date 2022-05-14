@@ -1,0 +1,76 @@
+#index-style1-content{
+	border:ridge 2.5px; 
+	border-radius: 20px; 
+	padding: 51px; 
+	margin: 250px; 
+	margin: 0px; 
+	width: 600;
+}
+#index-style2-content{
+	margin-left: 0px;
+}
+#index-style3-content{
+	font-size: 20px; 
+	width: 50%; 
+	padding: 5px;
+	border: ridge 2px; 
+	border-radius: 5px;
+}
+#index-style4-content{
+	font-size: 20px; 
+	width: 43%; 
+	padding: 5px;
+	border: ridge 2px; 
+	border-radius: 5px;
+}
+#index-style5-content{
+	font-size: 20px; 
+	width: 96.5%; 
+	padding: 5px;
+	border: ridge 2px; 
+	border-radius: 5px;
+}
+#index-style6-content{
+	font-size: 20px; 
+	width: 96.5%; 
+	padding: 5px;
+	border: ridge 2px; 
+	border-radius: 5px;
+}
+#index-style7-content{
+	font-size: 20px; 
+	width: 85.5%; 
+	padding: 5px;
+	border: ridge 2px; 
+	border-radius: 5px;
+}
+#index-style8-content{
+	font-size: 20px; 
+	width: 88%; 
+	padding: 5px;
+	border: ridge 2px; 
+	border-radius: 5px;
+}
+#index-style9-content{
+	font-size: 20px; 
+	width: 88%; 
+	padding: 5px;
+	border: ridge 2px; 
+	border-radius: 5px;
+}
+#index-style10-content{
+	color: black; 
+	background-color: green; 
+	font-size: 20px; 
+	width: 74%; 
+	padding: 5px; 
+	border-radius: 5px;
+}
+#index-style11-content{
+	color: white; 
+	background-color: purple ; 
+	font-size: 20px; 
+	width: 25%; 
+	padding: 5px;
+	border-radius: 5px;
+}
